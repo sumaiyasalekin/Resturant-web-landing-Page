@@ -2,14 +2,14 @@
 
 A responsive restaurant landing page and UI component set tailored for online food ordering. Features a structured dish menu grid, food search capabilities, and custom floating bottom-navigation variants.
 
-## 🍽 Features
+## Features
 
 * **Categorized Menu Grid:** Clean layout showcasing popular dishes, prices, and high-resolution thumbnail images.
 * **Dish Search & Filters:** Dedicated search bar section for fast dish lookup.
 * **Custom Navigation Bar:** Modular bottom tab bar designs with distinct floating state indicators (Home, Search, Favorites, Profile).
 * **Responsive Layout:** Works across desktop browser views and mobile web viewports.
 
-## 🛠 Tech & Design Stack
+## Tech & Design Stack
 
 * **Design Tool:** Figma
 * **Suggested Tech Stack:** React, Next.js, Tailwind CSS
