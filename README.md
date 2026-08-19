@@ -15,12 +15,5 @@ A responsive restaurant landing page and UI component set tailored for online fo
 * **Suggested Tech Stack:** React, Next.js, Tailwind CSS
 * **Icons:** Lucide Icons / Feather Icons
 
-##Project Structure
-├── assets/
-│   ├── images/          # Food item thumbnails & banners
-│   └── icons/           # Navigation state vector icons
-├── components/          # Reusable UI cards & tab bars
-└── README.md
-
 👤 Author
 **Sumaiya Salekin Saba**
